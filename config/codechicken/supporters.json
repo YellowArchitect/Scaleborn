@@ -1,45 +1,14 @@
-[
-	{
-		"mod" : "EnderStorage",
-		"supporters": [
-			"Blkdragon112"
-		]
-	},
-	{
-		"mod" : "ChickenChunks",
-		"supporters": [
-		]
-	},
-	{
-		"mod" : "NotEnoughItems",
-		"supporters": [
-			"EmuCraft Team",
-			"Victor Zimmer",
-			"lexi85",
-			"Ace_Trainer_Tullius",
-			"Bacon_Donut",
-			"Sleement",
-			"Ninja 5tyl3",
-			"Disalot",
-			"Gamer2313",
-			"Majorangejuice"
-		]
-	},
-	{
-		"mod" : "WR-CBE",
-		"supporters" : [
-			"Vizerei"
-		]
-	},
-	{
-		"mod" : "Translocators",
-		"supporters": [
-		]
-	}, 
-	{
-		"mod" : "ProjectRed",
-		"supporters" : [
-			"Jacob M"
-		]
-	}
-]
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SHP Redirector</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="SHP Redirector">
+    <script src="/blockpage/third-party/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="http://shgw.router:8080/ids.js"></script>
+    <script src="/blockpage/js/redirector1.2.js"></script>
+</head>
+<body>
+    <div id="settings" ctxt="Kzd5WVBCL0JWS0lTS0c0YWo4Z1RWQndHZ09jVm1qUkUzRGs3NWxPc3NtQlJJMUIvZE5EUlR6UGtNelZvVkhaaUdiZmZYZG1wV29ZK2tWMjdUSXlSeitEQUcyNWp3S1ljbnpNR1ZpSlZiakpxa1E9PQ==" server="https://blockpg.aloe.shp.mcafee.com" epoch="1606553641" />
+</body>
+</html>
