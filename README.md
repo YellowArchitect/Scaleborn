@@ -9,7 +9,9 @@ Now use the Scaleborn-Install.bat file to create a new folder in .minecraft and 
 #### MAKE SURE THE "Install Client" RADIO BUTTON IS SELECTED WHEN INSTALLING FORGE.
 
 After installing forge, start the minecraft launcher, select the Installations tab and create a new installation.
+
 Name the installation whatever you want, but for VERSION select "release 1.12.2-forge1.12.2-14.23.5.2855" in the drop-down box and set GAME DIRECTORY to Scaleborn, located in AppData\Roaming\.minecraft.
+
 You will want increase your allocated ram. Scroll to the bottom of the page and select "MORE OPTIONS" and find JVM arguments box. At the beginning you should see something like "-Xmx#G", where # is a number representing the allocated gigabytes of RAM for minecraft. Change the number to whatever amount of RAM you want (I usually do about 3/4 of my computers RAM), then click Create in the bottome right corner.**
 
 ### Congrats! You can now play Scaleborn!
