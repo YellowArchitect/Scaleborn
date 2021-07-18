@@ -5,7 +5,7 @@
 
 First you need to have java installed. You can download an installer [here](https://www.java.com/en/download/manual.jsp). Make sure you grab a 64-bit version for whatever operating system you are using.
 
-Now use the Scaleborn-Install.bat file to create a new folder in .minecraft and install forge to the client.*
+Now use the Scaleborn-Install.bat file. If you downloaded a .zip file make sure to extract it first. Scaleborn-Install.bat will create a new folder in .minecraft and install forge to the client.*
 #### MAKE SURE THE "Install Client" RADIO BUTTON IS SELECTED WHEN INSTALLING FORGE.
 
 After installing forge, start the minecraft launcher, select the Installations tab and create a new installation.
