@@ -17,7 +17,7 @@ You will want increase your allocated ram. Scroll to the bottom of the page and 
 ### Congrats! You can now play Scaleborn!
 
 
-*If the .bat file doesn't work, you can do thing manually. You need to copy the mods and config folders included in this downloaded and paste them in a new folder named Scaleborn in the .minecraft folder. One way to get to .minecraft is to press Windows + r buttons, type in %appdata%/.minecraft and press enter. Once you do this, launch the forge-1.12.2-1.12.2-14.23.5.2855-installer.jar file and continue follwing the instructions above as normal.
+*If the .bat file doesn't work, you can do thing manually. You need to copy the mods, config, and scripts folders included in this downloaded and paste them in a new folder named Scaleborn in the .minecraft folder. One way to get to .minecraft is to press Windows + r buttons, type in %appdata%/.minecraft and press enter. Once you do this, launch the forge-1.12.2-1.12.2-14.23.5.2855-installer.jar file and continue follwing the instructions above as normal.
 
 **If you encounter a java heap problem, you need to increase the amount of ram you allocate, or may simply need a more powerful computer.
 
