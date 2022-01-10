@@ -1,14 +1,52 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>SHP Redirector</title>
-    <meta charset="UTF-8">
-    <meta name="description" content="SHP Redirector">
-    <script src="/blockpage/third-party/jquery-3.4.1.min.js"></script>
-    <script type="text/javascript" src="http://shgw.router:8080/ids.js"></script>
-    <script src="/blockpage/js/redirector1.2.js"></script>
-</head>
-<body>
-    <div id="settings" ctxt="Kzd5WVBCL0JWS0lTS0c0YWo4Z1RWQndHZ09jVm1qUkUzRGs3NWxPc3NtQlJJMUIvZE5EUlR6UGtNelZvVkhaaUdiZmZYZG1wV29ZK2tWMjdUSXlSeitEQUcyNWp3S1ljbnpFSVV5ZFNZRDVya1E9PQ==" server="https://blockpg-aloe.safezone.mcafee.com" epoch="1628004880" />
-</body>
-</html>
+[
+	{
+		"mod" : "EnderStorage",
+		"supporters": [
+			"Blkdragon112",
+			"Pyrodogg"
+		]
+	},
+	{
+		"mod" : "ChickenChunks",
+		"supporters": [
+		]
+	},
+	{
+		"mod" : "NotEnoughItems",
+		"supporters": [
+			"EmuCraft Team",
+			"Victor Zimmer",
+			"lexi85",
+			"Ace_Trainer_Tullius",
+			"Bacon_Donut",
+			"Sleement",
+			"Ninja 5tyl3",
+			"Disalot",
+			"Gamer2313",
+			"Majorangejuice",
+			"Kadah",
+			"adeilt",
+			"Terkanil",
+			"Pandemonia",
+		]
+	},
+	{
+		"mod" : "WR-CBE",
+		"supporters" : [
+			"Vizerei"
+		]
+	},
+	{
+		"mod" : "Translocators",
+		"supporters": [
+			"Boyd Stephen Smith Jr."
+		]
+	}, 
+	{
+		"mod" : "ProjectRed",
+		"supporters" : [
+			"Jacob M",
+			"Darker Light"
+		]
+	}
+]
