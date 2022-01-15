@@ -117,6 +117,7 @@
   "precipitate",
   "slimey_green",
   "camdaibay_armor",
+  "thaumic",
   "magnetic1_armor",
   "enderference",
   "splitting2",
